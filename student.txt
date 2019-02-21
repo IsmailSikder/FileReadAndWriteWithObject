@@ -1,0 +1,5 @@
+FirstName,LastName,SSN,test1,test2,test3,test4,FinalGrade
+John,Doe,345-45-8432,98,79,80,65
+Alex,Smith,985-90-8897,87,88,92,63
+Jason,Alexander,987-90-1234,93,75,67,88
+Mark,Cuban,342-90-8787,75,100,77,92
